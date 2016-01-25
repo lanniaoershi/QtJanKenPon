@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mainWindow.qml</file>
+        <file>Images/background.jpg</file>
+        <file>Images/link.png</file>
+        <file>Images/play_board.jpg</file>
+        <file>MyButton.qml</file>
+        <file>PlayBoard.qml</file>
+        <file>js/UIValue.js</file>
+        <file>js/JanKenPon.js</file>
+        <file>Images/Robot1.png</file>
+        <file>Images/Robot2.png</file>
+        <file>Images/Robot3.png</file>
+        <file>BlueButton.qml</file>
+        <file>Images/Robot.png</file>
+        <file>Images/arrow.png</file>
+        <file>RobotChooseButton.qml</file>
+        <file>Arrow.qml</file>
+    </qresource>
+</RCC>
